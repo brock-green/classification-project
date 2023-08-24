@@ -2,6 +2,7 @@
 <hr style="border:2px solid black">
 
 ## <u>Project Description</u>
+TelcoCo Tellicommunications provide phone and internet service to thousands of customers. They would like to increase customer retention by investigating the drivers churn and predicting the likelyhood that a given customer churns.
 
 ## Goals: 
 * Discover drivers of churn at the TelcoCo telecommunications firm
@@ -47,8 +48,7 @@
 
 ## Summary
 
-- The dataset contains information about customers and their telecom service usage.
-- The features include both categorical and numerical data.
+- There are 7043 rows (customers)
 - The target variable is `churn`, indicating whether a customer churned or not.
 <hr style="border:2px solid black"> 
 
@@ -80,8 +80,8 @@ Plan --> Acquire --> Prepare --> Explore --> Model --> Deliver
 
 # Steps to Reproduce
 >1) Clone this repo.
-2) Create env.py file with credentials to access Codeup mySQL server
-3) Run notebook.
+>2) Create env.py file with credentials to access Codeup mySQL server
+>3) Run notebook.
 <hr style="border:2px solid black"> 
  
 ### <u>Recommendations:</u>
